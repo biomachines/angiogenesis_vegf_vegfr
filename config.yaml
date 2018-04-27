@@ -1,0 +1,23 @@
+belief_threshold: 0.8
+
+ndex:
+  name: "Angiogenesis VEGF / VEGFR Signaling"
+  network: e0a67a2e-4a47-11e8-a4bf-0ac135e8bacf
+
+search_terms_num_days: 5
+
+search_terms:
+- "Angiogenesis"
+- "VEGF"
+
+search_genes:
+- FIGF
+- PGF
+- VEGFA
+- NRP2
+- VEGFC
+- VEGFB
+- FLT4
+- NRP1
+- KDR
+- FLT1
